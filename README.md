@@ -1,4 +1,4 @@
-Sure, here's the `README.md` file focused on your project that can be pushed to Git:
+here's the `README.md` file focused on your project that can be pushed to Git:
 
 ```markdown
 # API Automation Testing Framework
